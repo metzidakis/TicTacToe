@@ -1,5 +1,5 @@
 # TicTacToe
-My first functional game
+My first functional game!!!
 Implement a tic tac toe (triliza) game which is played by two players.
 You may use one or two dimention array to store the results (the 'X' and 'O').
 You can use a while loop to give turns for the 'X' or the 'O' player.
